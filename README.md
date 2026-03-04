@@ -52,6 +52,4 @@ This project demonstrates:
 - VS Code
 - Git & GitHub
 
----
 
-## 📂 Project Structure
